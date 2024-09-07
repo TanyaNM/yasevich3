@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+.dd{
+padding: 15px;
+margin: 20px;
+text-decoration: none;
+border: 5px solid navy;
+}
+nav a{   
+padding: 15px;
+margin: 20px;
+text-decoration: none;
+border: 5px solid red;
+}
+
+h1{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
